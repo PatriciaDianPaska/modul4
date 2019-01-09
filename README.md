@@ -1,0 +1,9 @@
+# modul4
+LATIHAN 1
+![alt text](https://github.com/PatriciaDianPaska/modul4/blob/master/latihan1.JPG)
+LATIHAN 2
+![alt text](https://github.com/PatriciaDianPaska/modul4/blob/master/latihan2.JPG)
+LATIHAN 3
+![alt text](https://github.com/PatriciaDianPaska/modul4/blob/master/latihan3.JPG)
+LATIHAN 4
+![alt text](https://github.com/PatriciaDianPaska/modul4/blob/master/latihan4.JPG)
